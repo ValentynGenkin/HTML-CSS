@@ -1,6 +1,5 @@
 Week 1 homework
 
-
 Prep exercises - https://valentyngenkin.github.io/HTML-CSS/week1/PrepExercises/
 Digital resume - https://valentyngenkin.github.io/HTML-CSS/week1/DigitalResume/
 CSS Chalenge:
