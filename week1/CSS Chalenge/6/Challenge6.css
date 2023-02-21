@@ -1,0 +1,91 @@
+body {
+  width: 80%;
+  max-width: 1000px;
+  min-width: 300px;
+  margin: 0 auto;
+  background-image: url(desktop.jpg);
+  background-size: cover;
+
+}
+
+#header {
+  background-color: white;
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 50px;
+}
+
+.thepost {
+  border: 1px solid grey;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+.posttitle {
+  text-align: left;
+  font-size: 48px;
+  margin: 10px 10px 0 10px;
+  font-family: 'Quattrocento Sans', sans-serif;
+
+}
+
+.dateheader {
+  color: #777;
+  font-size: 12px;
+  margin: 0 0 0 10px;
+}
+
+.postfooter {
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.posttext {
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+.border {
+  border-bottom: 1px solid red;
+  width: 200px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  margin-top: 10px;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.754);
+  width: 100%;
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+
+.media img {
+  width: 30px;
+  height: 100%;
+  padding: 10px;
+  float: right;
+}
+
+.readlink {
+  text-align: center;
+  margin: 6px;
+}
+
+.readlink a {
+  text-decoration: none;
+  color: red;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
