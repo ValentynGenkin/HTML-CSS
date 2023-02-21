@@ -4,7 +4,7 @@ Prep exercises - https://valentyngenkin.github.io/HTML-CSS/week1/PrepExercises/
 
 Digital resume - https://valentyngenkin.github.io/HTML-CSS/week1/DigitalResume/
 
-CSS Chalenge:
+CSS Challenge:
 
 1 - https://valentyngenkin.github.io/HTML-CSS/week1/CSSChalenge/1/
 
