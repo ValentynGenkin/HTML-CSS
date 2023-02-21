@@ -1,0 +1,135 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  width: 50%;
+  min-width: 500px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.links {
+  width: 50%;
+  min-width: 500px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.experience {
+  width: 50%;
+  min-width: 500px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.about {
+  width: 50%;
+  min-width: 500px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.contacts {
+  width: 50%;
+  min-width: 500px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.education {
+  width: 50%;
+  min-width: 500px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.back {
+  background-color: rgb(219, 219, 219);
+}
+
+
+header h1 {
+  font-size: 40px;
+  margin-bottom: 0;
+}
+
+header p {
+  padding: 0;
+  margin: 0;
+}
+
+.photo {
+  float: right;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.photo img {
+  width: 150px;
+}
+
+.contacts ul {
+  list-style-type: none;
+  padding: 0;
+  
+}
+
+.contacts li {
+  margin-bottom: 5px;
+}
+
+.links img{
+  width: 40px;
+  padding: 5px;
+}
+
+.links {
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+}
+
+.about {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.about p {
+  text-indent: 30px;
+  text-align: justify;
+}
+
+p.date {
+  text-align: right;
+  margin-top: -40px;
+}
+
+.experience {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.education {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer {
+  color: white;
+  background-color: rgb(73, 73, 73);
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-align: center;
+}
